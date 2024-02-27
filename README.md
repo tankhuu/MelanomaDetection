@@ -28,9 +28,7 @@
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- tensorflow - 2.15.0
 
 
 ## Contact
